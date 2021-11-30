@@ -19,6 +19,11 @@
   "homepage": "https://github.com/IsabellaSSantos/Modulo4#readme",
   "dependencies": {
     "consign": "^0.1.6",
-    "express": "^4.17.1"
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
   }
 }

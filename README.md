@@ -8,11 +8,11 @@ Aqui a direção principal era escolher 5 entidades relacionada ao tema escolhid
 
 
 ## Instale 👍🏽
-Editor de Texto,
-Node js, (https://nodejs.org/en/download/)
+<p>Editor de Texto</p>
+<p>Node js (https://nodejs.org/en/download/)</p>
 Express ( npm install express)
-SqLite3,(npm install sqlite3 libsqlite3-dev)
-cors, (npm install cors)
+SqLite3 (npm install sqlite3 libsqlite3-dev)
+cors (npm install cors)
 
 ## Clonando o projeto
 git clone <caminho do arquivo>

@@ -1,28 +1,34 @@
 #  Stack Pub
+
+Aqui a direção principal era escolher 5 entidades relacionada ao tema escolhido pelo grupo e criar uma API REST para cada uma delas. O tema escolhido foi PUB, as 4 entidades escolhidas pelo grupo foram: Eventos, Menu, Pedidos, Caixa. Neste respositório você encontrará dados da API para Pedidos ☺
+
+
 ## API REST para Pedidos 📝
 
-## Vc vai precisar 
-Editor de Texto,
-Node js,
-Express,
-SqLite3,
-cors,
 
-## Comando git para clonar o projeto😎
+
+## Instale 👍🏽
+Editor de Texto,
+Node js, (https://nodejs.org/en/download/)
+Express ( npm install express)
+SqLite3,(npm install sqlite3 libsqlite3-dev)
+cors, (npm install cors)
+
+## Clonando o projeto
 git clone <caminho do arquivo>
 
-## Comando para iniciar o projeto
+## Iniciando o Projeto
 npm init
 
 ## Comando para instalar as dependências
 npm install
 
-## Comando para inicializar o servidor 
+## Inicializando o servidor 
 npm start
 caminho http://localhost:3000
 
 
-## Rotas possiveis
+## Vamos às rotas 😁
 
 
 ### Busca todas as comandas
